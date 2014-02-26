@@ -1,0 +1,13 @@
+p {
+	font-size: 44px;
+	color: gray;
+	font-weight: bold;
+	text-align: center;
+	text-decoration: line-through;
+	font-family: Helvetica;
+	line-height: 40px;
+}
+
+body {
+	background-color: #fafafa;
+}
